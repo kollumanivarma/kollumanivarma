@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/usre-nameis-vamsi/usre-nameis-vamsi/main/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" />
+<img src="1.gif" alt="Banner" />
 
 # Hi there, I'm Kollu Venkata Manikanta Varma👋
 
@@ -35,7 +35,7 @@
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usre-nameis-Manivarma&theme=monokai&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Manivarma&theme=monokai&no-frame=true&column=7" />
 </p>
 
 ---
@@ -43,17 +43,18 @@
 ### 📈 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usre-nameis-vamsi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usre-nameis-vamsi&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kollumanivarma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kollumanivarma&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=usre-nameis-vamsi&theme=tokyonight&hide_border=true" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=kollumanivarma&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usre-nameis-vamsi&theme=tokyonight" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kollumanivarma&theme=tokyonight" width="90%" />
 </p>
+
 
 ---
 
