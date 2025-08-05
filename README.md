@@ -1,4 +1,7 @@
-<img src="1.gif" alt="Banner" />
+<p align="center">
+  <img src="2.gif" alt="Banner" style="width: 300%; max-height: 100px;" />
+</p>
+
 
 # Hi there, I'm Kollu Venkata Manikanta Varma👋
 
