@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="2.gif" alt="Banner" style="width: 300%; max-height: 100px;" />
+  <img src="3.gif" alt="Banner"  />
 </p>
 
 
@@ -67,8 +67,5 @@
   <img src="https://raw.githubusercontent.com/usre-nameis-vamsi/usre-nameis-vamsi/main/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" alt="Connect GIF" width="350"/>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamsi-mohan-krishna-chanumolu-8ab364257/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/usre-nameis-vamsi)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/klu_2200030834)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/chanumoluvamsi)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vamsichanumolu72@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kollu-venkata-manikanta-varma-abb965245//)
+
