@@ -13,7 +13,7 @@
 ### 👨‍💻 I'm a Frontend Developer
 
 - 💻 Aspiring Developer | Cloud Enthusiast | Tech Explorer  
-- 🎓 3rd Year CSE Student at KL University  
+- 🎓 4th Year CSE Student at KL University  
 - ☁️ Certified in RedHat, Salesforce AI Associate & Aviatrix  
 - 🛠️ Working on Java, Python, Spring Boot, and Web Development  
 - 🌍 Building projects that solve real-world problems  
